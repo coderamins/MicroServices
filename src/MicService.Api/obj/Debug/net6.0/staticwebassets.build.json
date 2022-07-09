@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ru82N3UZZ+ICJdaju8t1yM5t4i4UzItFJeB68KpkPX0=",
+  "Source": "MicService.Api",
+  "BasePath": "_content/MicService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

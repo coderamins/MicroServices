@@ -1,0 +1,12 @@
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\bin\Debug\net6.0\MicService.Common.deps.json
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\bin\Debug\net6.0\MicService.Common.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\bin\Debug\net6.0\MicService.Common.pdb
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.csproj.AssemblyReference.cache
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.AssemblyInfoInputs.cache
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.AssemblyInfo.cs
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.csproj.CoreCompileInputs.cache
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\refint\MicService.Common.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\MicService.Common.pdb
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Common\obj\Debug\net6.0\ref\MicService.Common.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5QHEXqH03IBZDOAvHpc5UgXIWmW0NS0WlSs3EqE6fRA=",
+  "Source": "MicService.Services.Identity",
+  "BasePath": "_content/MicService.Services.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "55gBSpscPAkcLx+grvmF0M7W4LRDdGquhrxsocP/mPU=",
+  "Source": "MicService.Services.Activities",
+  "BasePath": "_content/MicService.Services.Activities",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

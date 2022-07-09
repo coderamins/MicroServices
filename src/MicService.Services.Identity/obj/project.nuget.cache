@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEaORBA0QjYOO4tDz902pfTZbZ0Qp/vYqNZ8aYknR776W+6en8/SbVWp/DTPYymFI7mGwSU1vKr0QozWn2Vopg==",
+  "success": true,
+  "projectFilePath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Services.Identity\\MicService.Services.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1007297\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\1007297\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\1007297\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\1007297\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\1007297\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\1007297\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Api\\MicService.Api.csproj": {}
+  },
+  "projects": {
+    "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Api\\MicService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Api\\MicService.Api.csproj",
+        "projectName": "MicService.Api",
+        "projectPath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Api\\MicService.Api.csproj",
+        "packagesPath": "C:\\Users\\1007297\\.nuget\\packages\\",
+        "outputPath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1007297\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\MicService.Common.csproj": {
+                "projectPath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\MicService.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\MicService.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\MicService.Common.csproj",
+        "projectName": "MicService.Common",
+        "projectPath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\MicService.Common.csproj",
+        "packagesPath": "C:\\Users\\1007297\\.nuget\\packages\\",
+        "outputPath": "F:\\developing\\TutorialProjects\\MicroserviceTut\\src\\MicService.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1007297\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
