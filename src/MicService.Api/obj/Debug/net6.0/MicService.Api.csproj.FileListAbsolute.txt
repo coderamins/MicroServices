@@ -27,3 +27,11 @@ F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\obj\Debug\net6
 F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\obj\Debug\net6.0\ref\MicService.Api.dll
 F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\MicService.Common.dll
 F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\MicService.Common.pdb
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\RawRabbit.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\RawRabbit.DependencyInjection.ServiceCollection.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\RawRabbit.Operations.Publish.dll
+F:\developing\TutorialProjects\MicroserviceTut\src\MicService.Api\bin\Debug\net6.0\RawRabbit.Operations.Subscribe.dll
